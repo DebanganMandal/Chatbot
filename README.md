@@ -14,3 +14,15 @@ Here the bot is trained based on some set rules. It is from these rules that the
 
 ## About the Python Project – Chatbot
 In this chatbot, we will use the rule-based approach.
+
+## Terms to encounter
+### Natural Language Processing(nltk) -
+This is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages.
+### Lemmatization -
+This is the process of grouping together the different inflected forms of a word so they can be analyzed as a single item and is a variation of stemming. For example “feet” and “foot” are both recognized as “foot”.
+### Stemming - 
+This is the process of reducing inflected words to their word stem, base, or root form. For example, if we were to stem the word “eat”, “eating”, “eats”, the result would be the single word “eat”.
+### Tokenization - 
+Tokens are individual words and “tokenization” is taking a text or set of text and breaking it up into its individual words or sentences.
+### Bag of Words - 
+This is an NLP technique of text modeling for representing text data for machine learning algorithms. It is a way of extracting features from the text for use in machine learning algorithms.
