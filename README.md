@@ -8,3 +8,9 @@ A retrieval-based chatbot uses predefined input patterns and responses. It then 
 Generative models are not based on some predefined responses.
 
 They are based on seq 2 seq neural networks. It is the same idea as machine translation. In machine translation, we translate the source code from one language to another language but here, we are going to transform input into an output. It needs a large amount of data and it is based on Deep Neural networks.
+
+## Rule-Based approach:
+Here the bot is trained based on some set rules. It is from these rules that the bot can process simple queries but can fail to process complex ones.
+
+## About the Python Project – Chatbot
+In this chatbot, we will use the rule-based approach.
